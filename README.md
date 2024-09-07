@@ -52,7 +52,8 @@
 
 <div>
   <img src="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png" title="SQL" alt="SQL" width="100" height="40"/>&nbsp
-  <img src="https://github.com/hyunjoonbok/PySpark/blob/master/img/spark.png" title="PySpark" alt="PySpark" width="200" height="40"/>&nbsp
+  <img src="https://avatars.mds.yandex.net/i?id=8748e24dcd9e78d2b12af081f0cfd86c7bdc150d46ab24a7-5617347-images-thumbs&n=13" title="PySpark" alt="PySpark" width="100" height="40"/>&nbsp
+  <img src="https://www.python.org/static/community_logos/python-logo.png" title="python" alt="python" width="100" height="40"/>&nbsp
   <img src="https://pandas.pydata.org/static/img/pandas.svg" title="pandas" alt="pandas" width="100" height="40"/>&nbsp
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="100" height="40"/>&nbsp
   <img src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" title="matplotlib" alt="matplotlib" width="100" height="40"/>&nbsp
