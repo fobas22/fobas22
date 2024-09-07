@@ -60,7 +60,7 @@
   <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="lightgbm" alt="lightgbm" width="100" height="40"/>&nbsp
   <img src="https://riccardo-cantini.netlify.app/post/bert_text_classification/featured_hua8bf7d9829a3c2e45f4e3633adf00c19_474726_720x0_resize_lanczos_2.png" title="bert" alt="bert" width="100" height="40"/>&nbsp
   <img src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" title="keras" alt="keras" width="100" height="40"/>&nbsp
-  <img src="https://i.pinimg.com/originals/27/45/30/2745305c9702bceee2525cc24e1d00c2.png" title="SQL" alt="SQL" width="100" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png" title="SQL" alt="SQL" width="100" height="40"/>&nbsp
 
   
 </div>
