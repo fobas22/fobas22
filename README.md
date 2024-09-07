@@ -69,7 +69,9 @@
   <img src="https://pandas.pydata.org/static/img/pandas.svg" title="pandas" alt="pandas" width="100" height="40"/>&nbsp
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="100" height="40"/>&nbsp
   <img src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" title="matplotlib" alt="matplotlib" width="100" height="40"/>&nbsp
-  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-small.png" title="matplotlib" alt="scikit-learn" width="100" height="40"/>&nbsp
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="100" height="40"/>&nbsp
+  <img src="https://www.zdnet.com/a/img/resize/26f2b28389f2759d17260948a657511144c5b988/2017/07/18/d3f47c3e-8529-4855-a0e1-c686ee3b4007/orig.png?auto=webp&fit=crop&height=40&width=100" title="catboost" alt="catboost" width="100" height="40"/>&nbsp
+
   
 </div>
 
