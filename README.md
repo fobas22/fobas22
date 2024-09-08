@@ -70,14 +70,3 @@
 </div>
 
 ---
-
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fobas22&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
